@@ -81,6 +81,12 @@ const InventoryRouting = (props) => {
     shortcut: 'Ctrl + [',
   });
 
+  keyboardShortcuts.push({
+    label: <FormattedMessage id="ui-inventory.shortcut.printResultsOrRecord" />,
+    name: 'printResultsOrRecord',
+    shortcut: 'mod + p',
+  });
+
   const focusSearchField = () => {
     const el = document.getElementById('input-inventory-search');
 

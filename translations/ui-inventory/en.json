@@ -952,6 +952,7 @@
   "shortcut.prevSubfield": "quickMARC only: Move to the previous subfield in a text box",
   "shortcut.editMARC": "Edit MARC record",
   "shortcut.editMARC.noPermission": "You do not have permission to edit the record.",
+  "shortcut.printResultsOrRecord": "Print results list or record",
 
   "settings.heading.general": "General",
   "settings.section.versionHistory": "Version history",
